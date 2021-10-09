@@ -1,1 +1,17 @@
 /* No CSS *//*# sourceMappingURL=style.css.map */
+.card-victor {
+    border: 2px  rgb(93, 105, 105);
+  }
+  
+  .card-victor .card-img {
+    width: 100px;
+    margin: 0 auto;
+  }
+  
+  .card-victor .card-img img {
+    width: 100%;
+  }
+  
+  .card-victor .card-body span {
+    font-weight: bold;
+  }

@@ -1,0 +1,15 @@
+.card-victor {
+    border: 3px rgb(21, 128, 0);
+    .card-img {
+        width: 100px;
+        margin: 0 auto;
+        img {
+            width: 100%;
+        }
+    }
+    .card-body {
+        span {
+            font-weight: bold;
+        }
+    }
+}
