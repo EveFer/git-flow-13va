@@ -23,4 +23,13 @@ html body {
   width: 200px;
   height: 200px;
 }
+
+.card-omar .profile-info {
+  border-left: 15px;
+}
+
+.card-omar .profile-info h3, .card-omar .profile-info h4 {
+  padding: 5px;
+  color: green;
+}
 /*# sourceMappingURL=style.css.map */
