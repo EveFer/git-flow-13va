@@ -1,13 +1,13 @@
-img {
-  width: 200px;
-}
-
-.card {
+.card_kraken {
   background-color: bisque;
   border-radius: 10px;
 }
 
-p {
+.card_kraken img {
+  width: 200px;
+}
+
+.card_kraken p {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: black;
   font-size: 18px;
