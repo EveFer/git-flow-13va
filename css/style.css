@@ -5,21 +5,21 @@ html body {
 
 .card-omar {
   border: 2px solid black;
-  height: 250px;
+  height: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: center;
-          flex-direction: center;
+      -ms-flex-direction: column;
+          flex-direction: column;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
   padding: 5px;
 }
 
-.card-omar img {
+.card-omar img.img-omar {
   width: 200px;
   height: 200px;
 }
