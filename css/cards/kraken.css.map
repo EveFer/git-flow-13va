@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,GAAG,CAAA;EACC,KAAK,EAAE,KAAK;CACf;;AAED,AAAA,KAAK,CAAA;EACD,gBAAgB,EAAE,MAAM;EACxB,aAAa,EAAE,IAAI;EACnB,KAAK,EAAC,KAAK;CACd;;AAED,AAAA,CAAC,CAAA;EACG,SAAS,EAAE,MAAM;EACjB,WAAW,EAAE,IAAI;CACpB",
+    "sources": [
+        "kraken.scss"
+    ],
+    "names": [],
+    "file": "kraken.css"
+}

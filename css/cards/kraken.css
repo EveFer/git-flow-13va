@@ -7,4 +7,9 @@ img {
   border-radius: 10px;
   color: black;
 }
-/*# sourceMappingURL=style.css.map */
+
+p {
+  font-size: larger;
+  font-weight: bold;
+}
+/*# sourceMappingURL=kraken.css.map */
