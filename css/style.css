@@ -28,6 +28,24 @@
 }
 
 /* Add some padding inside the card container */
+.card-encabezado img {
+  width: 250px;
+}
+
+.card-body {
+  padding: 0;
+  margin: 0;
+  width: 250px;
+}
+
+.card-body h1 {
+  text-align: center;
+}
+
+.card-body ul {
+  background-color: rgba(255, 127, 80, 0.527);
+}
+
 .card_emi {
   -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -54,6 +72,10 @@
           box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   -webkit-transition: 0.3s;
   transition: 0.3s;
+}
+
+.card-adolfo img {
+  width: 100%;
 }
 
 /* On mouse-over, add a deeper shadow */
