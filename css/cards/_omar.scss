@@ -1,0 +1,16 @@
+html body{
+    margin: 0;
+    padding: 0;
+}
+.card-omar{
+    border: 2px solid black;
+    height: 250px;
+    display: flex;
+    flex-direction: center;
+    align-items: center;
+    padding: 5px;
+    img{
+        width: 200px;
+        height: 200px;
+    }
+}
